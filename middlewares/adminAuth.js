@@ -12,7 +12,7 @@ module.exports = async function (req, res, next) {
         error: 'Admin resources access denied'
       })
     }
-    next()
+    next();
   } 
   catch (error) {
     console.log(error);
