@@ -1,0 +1,1 @@
+This is the Headiz E-commerce Backend Architecture
